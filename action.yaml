@@ -90,8 +90,6 @@ runs:
         </table>
 
         ---
-
-        <sup>Coverage provided by https://github.com/seriousben/go-patch-cover-action</sup>
         EOF
         )
 
